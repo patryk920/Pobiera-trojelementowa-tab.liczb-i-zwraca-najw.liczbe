@@ -1,7 +1,7 @@
 /*Napisz program pobierający trójelementową tablicę liczb i zwracający największą liczbę.
 
  */
-public class program {
+public class Program {
     public static void main(String[] args) {
         int[] tablica = new int[]{2000, 700, 10004};
         if (tablica[0] > tablica[1] && tablica[0] > tablica[2]) {
